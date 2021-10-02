@@ -1,7 +1,6 @@
-# Task-Day->3
 
 
-# Hi, my name is **Mayukh Ganguly**. 👋
+# **Mayukh Ganguly**. 👋
 
 I'm in CSE 1st year in **Netaji Subhash Engineering College**.
 
